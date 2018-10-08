@@ -1,0 +1,6 @@
+1 Top header ta faltando;
+2 Background css;
+3 menu div ol ou ul;
+4 imagems src;
+5 background color;
+6 footer;
